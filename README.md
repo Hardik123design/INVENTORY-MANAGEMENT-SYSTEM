@@ -1,1 +1,1 @@
-# INVENTORY-MANAGEMENT-SYSTEM
+# Inventory Management System - Team 1\n\nTrack products, stock quantities, prices and sales.\n\n## Compilation and Run\n```bash\ngcc main.c -o app\n./app\n```\n
